@@ -1,0 +1,9 @@
+Package: im.hearse.flexextend
+Name: flexextend
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An useful extension for libFlex.
+Maintainer: hearse
+Author: hearse
+Section: Tweaks
+Depends: mobilesubstrate, libflex
